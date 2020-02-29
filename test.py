@@ -28,7 +28,6 @@ np.random.seed(1)
 maxAttempts = 10
 maxIters = 1e5
 stepNum = 6
-probIdx = 0
 useTuned = True
 run = 'itercurve'
 updateTxt = True
@@ -59,8 +58,8 @@ tunedsolvers[3][0] = SimulatedAnnealingSolver(schedule = mlrose.GeomDecay(decay=
 tunedsolvers[3][1] = SimulatedAnnealingSolver(schedule = mlrose.GeomDecay(decay=0.99, init_temp=1.0), maxIters = maxIters, maxAttempts = maxAttempts, randomState = None)
 tunedsolvers[3][2] = SimulatedAnnealingSolver(schedule = mlrose.GeomDecay(decay=0.96, init_temp=0.25), maxIters = maxIters, maxAttempts = maxAttempts, randomState = None)
 
-for i in [2]:
-    for j in [1]:
+for i in [0, 1, 2]:
+    for j in [0, 1, 2, 3]:
         aProb = probs[i]
         if useTuned:
             aSolver = tunedsolvers[j][i]
