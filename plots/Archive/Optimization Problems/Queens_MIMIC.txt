@@ -1,0 +1,11 @@
+====================================================
+IterCurve-1-Queens-MIMIC:
+minVal=-3.0,	maxVal=-1.0,	meanVal=-1.3,	medianVal=-1.0,	68.2%LB=-1.940312423743285,	execTime=0.6348014593124389
+====================================================
+_ParamSearch-2-Queens-MIMIC:
+	pop_size: fitnessVal=-0.8, index=4, param=400
+	keep_pct: fitnessVal=-0.7999999999999998, index=2, param=0.15
+	max_attempts: fitnessVal=-0.8, index=2, param=10
+====================================================
+IterCurve-5-Queens-MIMIC:
+minVal=-2.0,	maxVal=-1.0,	meanVal=-1.1,	medianVal=-1.0,	68.2%LB=-1.4000000000000001,	execTime=1.6124629259109498

@@ -1,0 +1,10 @@
+====================================================
+LearningCurve-1-HillClimb:
+train=0.10465116279069767, test=0.1045934401416129
+====================================================
+ParamSearch-2-HillClimb:
+	learning_rate: fitnessVal=0.6707501906123947, index=4, param=1.0
+	restarts: fitnessVal=0.7723202972276831, index=4, param=20
+====================================================
+LearningCurve-5-HillClimb:
+train=0.7859911406423035, test=0.7869499779798783

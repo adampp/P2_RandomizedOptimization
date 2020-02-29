@@ -1,0 +1,7 @@
+====================================================
+IterCurve-1-Queens-HillClimb:
+minVal=-4.0,	maxVal=-2.0,	meanVal=-3.4,	medianVal=-3.5,	68.2%LB=-4.06332495807108,	execTime=0.01779904365539551
+====================================================
+_ParamSearch-2-Queens-HillClimb:
+	restarts: fitnessVal=-1.4, index=5, param=50
+	max_attempts: fitnessVal=-0.8, index=0, param=5

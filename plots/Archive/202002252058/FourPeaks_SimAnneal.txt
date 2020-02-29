@@ -1,0 +1,16 @@
+====================================================
+IterCurve-1-FourPeaks-SimAnneal:
+minVal=16.0,	maxVal=49.0,	meanVal=33.5,	medianVal=39.5,	68.2%LB=20.64503986781756,	execTime=0.00487363338470459
+====================================================
+_ParamSearch-2-FourPeaks-SimAnneal:
+	schedule: fitnessVal=25.578707106038244, index=0, param=1.0
+	max_attempts: fitnessVal=25.89460536338504, index=2, param=10
+====================================================
+_ParamSearch-3-FourPeaks-SimAnneal:
+	schedule: fitnessVal=48.240270282610254, index=2, param=1.0
+====================================================
+_ParamSearch-4-FourPeaks-SimAnneal:
+	schedule: fitnessVal=47.12302713519906, index=1, param=0.25
+====================================================
+IterCurve-5-FourPeaks-SimAnneal:
+minVal=21.0,	maxVal=54.0,	meanVal=42.0,	medianVal=46.0,	68.2%LB=30.668627620627763,	execTime=0.008382391929626466

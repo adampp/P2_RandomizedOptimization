@@ -1,0 +1,11 @@
+====================================================
+IterCurve-1-KColors-MIMIC:
+minVal=-3.0,	maxVal=-2.0,	meanVal=-2.2,	medianVal=-2.0,	68.2%LB=-2.6,	execTime=2.5588093996047974
+====================================================
+_ParamSearch-2-KColors-MIMIC:
+	pop_size: fitnessVal=-1.8417424305044157, index=3, param=200
+	keep_pct: fitnessVal=-1.6, index=3, param=0.2
+	max_attempts: fitnessVal=-1.8000000000000003, index=1, param=5
+====================================================
+IterCurve-5-KColors-MIMIC:
+minVal=-3.0,	maxVal=-2.0,	meanVal=-2.2,	medianVal=-2.0,	68.2%LB=-2.6,	execTime=2.7822781085968016

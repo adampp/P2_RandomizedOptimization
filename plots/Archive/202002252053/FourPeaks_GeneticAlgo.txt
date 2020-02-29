@@ -1,0 +1,8 @@
+====================================================
+IterCurve-1-FourPeaks-GeneticAlgo:
+minVal=48.0,	maxVal=56.0,	meanVal=52.9,	medianVal=54.0,	68.2%LB=49.75516296129672,	execTime=0.41186883449554446
+====================================================
+_ParamSearch-2-FourPeaks-GeneticAlgo:
+	pop_size: fitnessVal=47.04472223307376, index=4, param=400
+	mutation_prob: fitnessVal=49.3689011157193, index=3, param=0.2
+	max_attempts: fitnessVal=53.53867522741639, index=2, param=10

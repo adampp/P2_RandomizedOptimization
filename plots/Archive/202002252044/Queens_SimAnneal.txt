@@ -1,0 +1,10 @@
+====================================================
+IterCurve-1-Queens-SimAnneal:
+minVal=-5.0,	maxVal=-1.0,	meanVal=-3.8,	medianVal=-4.0,	68.2%LB=-4.96619037896906,	execTime=0.013471889495849609
+====================================================
+_ParamSearch-2-Queens-SimAnneal:
+	schedule: fitnessVal=-2.695012437887911, index=2, param=1.0
+	max_attempts: fitnessVal=-2.0596875762567155, index=2, param=10
+====================================================
+_ParamSearch-3-Queens-SimAnneal:
+	schedule: fitnessVal=-1.4834848610088318, index=0, param=1.0

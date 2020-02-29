@@ -1,0 +1,14 @@
+====================================================
+LearningCurve-1-GeneticAlgo:
+train=0.7808231819859728, test=0.7808591695634884
+====================================================
+ParamSearch-2-GeneticAlgo:
+	learning_rate: fitnessVal=0.7802884917609928, index=2, param=0.2
+	pop_size: fitnessVal=0.7779716002232063, index=2, param=200
+	mutation_prob: fitnessVal=0.7779641203880527, index=1, param=0.15
+====================================================
+LearningCurve-5-GeneticAlgo:
+train=0.7836840162421558, test=0.7836277188436657
+====================================================
+LearningCurve-6-GeneticAlgo:
+train=0.7827611664820967, test=0.781412879419524

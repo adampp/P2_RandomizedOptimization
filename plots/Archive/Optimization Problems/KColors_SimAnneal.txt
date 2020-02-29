@@ -1,0 +1,16 @@
+====================================================
+IterCurve-1-KColors-SimAnneal:
+minVal=-3.0,	maxVal=-2.0,	meanVal=-2.1,	medianVal=-2.0,	68.2%LB=-2.4,	execTime=0.04998624324798584
+====================================================
+_ParamSearch-2-KColors-SimAnneal:
+	schedule: fitnessVal=-1.659687576256715, index=2, param=1.0
+	max_attempts: fitnessVal=-1.6950124378879112, index=1, param=5
+====================================================
+_ParamSearch-3-KColors-SimAnneal:
+	schedule: fitnessVal=-2.0, index=0, param=1.0
+====================================================
+_ParamSearch-4-KColors-SimAnneal:
+	schedule: fitnessVal=-2.0, index=0, param=0.1
+====================================================
+IterCurve-5-KColors-SimAnneal:
+minVal=-2.0,	maxVal=-2.0,	meanVal=-2.0,	medianVal=-2.0,	68.2%LB=-2.0,	execTime=4.961909747123718

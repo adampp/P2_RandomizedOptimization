@@ -1,0 +1,7 @@
+====================================================
+IterCurve-1-FourPeaks-HillClimb:
+minVal=2.0,	maxVal=12.0,	meanVal=6.5,	medianVal=6.5,	68.2%LB=3.6277186767309857,	execTime=0.0008229255676269531
+====================================================
+_ParamSearch-2-FourPeaks-HillClimb:
+	restarts: fitnessVal=5.090149526708908, index=5, param=50
+	max_attempts: fitnessVal=56.0, index=3, param=50

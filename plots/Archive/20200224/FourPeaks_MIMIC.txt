@@ -1,0 +1,3 @@
+====================================================
+IterCurve-1-FourPeaks-MIMIC:
+minVal=42.0,	maxVal=56.0,	meanVal=48.0,	medianVal=48.5,	68.2%LB=44.07571662593028,	execTime=3.8638080596923827

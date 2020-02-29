@@ -1,0 +1,8 @@
+====================================================
+IterCurve-1-KColors-GeneticAlgo:
+minVal=-3.0,	maxVal=-2.0,	meanVal=-2.4,	medianVal=-2.0,	68.2%LB=-2.8898979485566354,	execTime=0.16020188331604004
+====================================================
+_ParamSearch-2-KColors-GeneticAlgo:
+	pop_size: fitnessVal=-2.0596875762567155, index=2, param=100
+	mutation_prob: fitnessVal=-1.659687576256715, index=0, param=0.05
+	max_attempts: fitnessVal=-1.8000000000000003, index=2, param=10

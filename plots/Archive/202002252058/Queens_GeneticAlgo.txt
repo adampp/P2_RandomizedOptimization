@@ -1,0 +1,11 @@
+====================================================
+IterCurve-1-Queens-GeneticAlgo:
+minVal=-3.0,	maxVal=-2.0,	meanVal=-2.5,	medianVal=-2.5,	68.2%LB=-3.0,	execTime=0.4194209337234497
+====================================================
+_ParamSearch-2-Queens-GeneticAlgo:
+	pop_size: fitnessVal=-1.241742430504416, index=4, param=400
+	mutation_prob: fitnessVal=-1.2000000000000002, index=5, param=0.3
+	max_attempts: fitnessVal=-1.1101020514433644, index=2, param=10
+====================================================
+IterCurve-5-Queens-GeneticAlgo:
+minVal=-2.0,	maxVal=-1.0,	meanVal=-1.7,	medianVal=-2.0,	68.2%LB=-2.158257569495584,	execTime=1.836646056175232

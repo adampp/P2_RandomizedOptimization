@@ -1,0 +1,10 @@
+====================================================
+IterCurve-1-KColors-HillClimb:
+minVal=-8.0,	maxVal=-5.0,	meanVal=-6.9,	medianVal=-7.0,	68.2%LB=-7.730662386291808,	execTime=0.0016196966171264648
+====================================================
+_ParamSearch-2-KColors-HillClimb:
+	restarts: fitnessVal=-3.7366750419289203, index=5, param=50
+	max_attempts: fitnessVal=-2.0, index=3, param=50
+====================================================
+IterCurve-5-KColors-HillClimb:
+minVal=-2.0,	maxVal=-2.0,	meanVal=-2.0,	medianVal=-2.0,	68.2%LB=-2.0,	execTime=0.17276692390441895

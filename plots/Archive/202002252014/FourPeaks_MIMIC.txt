@@ -1,0 +1,8 @@
+====================================================
+IterCurve-1-FourPeaks-MIMIC:
+minVal=42.0,	maxVal=56.0,	meanVal=48.0,	medianVal=48.5,	68.2%LB=44.07571662593028,	execTime=3.8638080596923827
+====================================================
+_ParamSearch-2-FourPeaks-MIMIC:
+	pop_size: fitnessVal=53.21114561800017, index=4, param=400
+	keep_pct: fitnessVal=52.0, index=3, param=0.2
+	max_attempts: fitnessVal=51.84846986557375, index=1, param=5
